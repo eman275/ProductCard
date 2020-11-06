@@ -32,3 +32,9 @@ $('.cart-btn').on('click', function (){
   }
   
 });
+   
+
+
+
+document.addEventListener('contextmenu' , event => event.preventDefault());
+
